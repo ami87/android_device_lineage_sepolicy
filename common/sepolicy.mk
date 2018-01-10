@@ -3,5 +3,5 @@
 # inherit from Lineage
 #
 
-BOARD_SEPOLICY_DIRS += \
+BOARD_SEPOLICY_DIR += \
     device/aosp/sepolicy/common
